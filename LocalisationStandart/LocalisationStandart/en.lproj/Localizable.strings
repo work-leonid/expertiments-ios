@@ -1,0 +1,14 @@
+/* 
+  Localizable.string.strings
+  LocalisationStandart
+
+  Created by Leonid Nazarov on 21.04.2021.
+  
+*/
+
+"mySampleTitle" = "This is Title";
+"mySampleText" = "This is sample text";
+"my Sample Interpolation Text %@." = "Number of cats: %@ wow wow wow";
+"myNameIs %@" = "🔥 My name is %@ wowo";
+"myAge %lld" = "Age: %lld";
+"NumberAndString %@ and %lld." = "This is string: %@ and %lld";

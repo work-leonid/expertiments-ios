@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Localisation
+
+  Created by Leonid Nazarov on 21.04.2021.
+  
+*/
+
+"settings_language" = "Язык";
+"settings_language_footer" = "Выберите язык интерфейса";
+"settings_language_button" = "Выбрать";
+"secondView_title" = "Ух ты!";
+"main_screen_title" = "Первый экран";
+"second_screen_title" = "Второй экран";
+"myNameIs %@" = "Меня зовут %@";

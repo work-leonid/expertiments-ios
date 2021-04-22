@@ -1,0 +1,13 @@
+/* 
+  Localizable.string.strings
+  LocalisationStandart
+
+  Created by Leonid Nazarov on 21.04.2021.
+  
+*/
+
+"mySampleTitle" = "Это Заголовок";
+"mySampleText" = "А это текст";
+"mySampleInterpolationText %@" = "Котов: %@";
+"myNameIs %@" = "Меня зовут %@";
+"myAge %lld" = "Возраст: %lld";

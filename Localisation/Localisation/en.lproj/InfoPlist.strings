@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Localisation
+
+  Created by Leonid Nazarov on 21.04.2021.
+  
+*/
+
+"CFBundleDisplayName" = "Local example";
+"NSHumanReadableCopyright" = "2016 Goldrush Computing Inc. All rights reserved.";
