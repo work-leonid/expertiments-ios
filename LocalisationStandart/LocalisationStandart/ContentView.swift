@@ -12,7 +12,7 @@ struct ContentView: View {
     
     let name = "Bond"
     let age = 20
-    var appleCount = 100
+    var appleCount = 2
     let title = LocalizedStringKey("mySampleTitle")
     let title2 = LocalizedStringKey("\(FirstPage.title.localized)")
     
