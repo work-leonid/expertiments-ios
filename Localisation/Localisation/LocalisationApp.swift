@@ -11,7 +11,8 @@ import SwiftUI
 struct LocalisationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Formatters()
+//            ContentView()
         }
     }
 }

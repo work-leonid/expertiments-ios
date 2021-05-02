@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB0C5DDD2636DC0800224329 /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB0C5DDC2636DC0800224329 /* Enums.swift */; };
+		FB0C5DE12636DCE700224329 /* TestLocalWithEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB0C5DE02636DCE700224329 /* TestLocalWithEnum.swift */; };
+		FB0C5DE42636F0D400224329 /* Formatters.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB0C5DE32636F0D400224329 /* Formatters.swift */; };
 		FB21537D2630019700BE529D /* LocalisationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB21537C2630019700BE529D /* LocalisationApp.swift */; };
 		FB21537F2630019700BE529D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB21537E2630019700BE529D /* ContentView.swift */; };
 		FB2153812630019900BE529D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB2153802630019900BE529D /* Assets.xcassets */; };
@@ -21,6 +24,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FB0C5DDC2636DC0800224329 /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
+		FB0C5DE02636DCE700224329 /* TestLocalWithEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestLocalWithEnum.swift; sourceTree = "<group>"; };
+		FB0C5DE32636F0D400224329 /* Formatters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Formatters.swift; sourceTree = "<group>"; };
 		FB2153792630019700BE529D /* Localisation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Localisation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB21537C2630019700BE529D /* LocalisationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalisationApp.swift; sourceTree = "<group>"; };
 		FB21537E2630019700BE529D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -72,9 +78,12 @@
 				FB215392263003C800BE529D /* Localizable.strings */,
 				FB21537C2630019700BE529D /* LocalisationApp.swift */,
 				FB21537E2630019700BE529D /* ContentView.swift */,
+				FB0C5DE32636F0D400224329 /* Formatters.swift */,
+				FB0C5DE02636DCE700224329 /* TestLocalWithEnum.swift */,
 				FB2153AF26300E4600BE529D /* SecondView.swift */,
 				FB2153AA2630085F00BE529D /* SettingsView.swift */,
 				FB21539D2630042C00BE529D /* Language.swift */,
+				FB0C5DDC2636DC0800224329 /* Enums.swift */,
 				FB2153A12630048500BE529D /* Strings+localisations.swift */,
 				FB2153A72630075100BE529D /* LocalizationService.swift */,
 				FB2153802630019900BE529D /* Assets.xcassets */,
@@ -169,8 +178,11 @@
 				FB2153A82630075100BE529D /* LocalizationService.swift in Sources */,
 				FB21537F2630019700BE529D /* ContentView.swift in Sources */,
 				FB2153AB2630085F00BE529D /* SettingsView.swift in Sources */,
+				FB0C5DDD2636DC0800224329 /* Enums.swift in Sources */,
 				FB2153A22630048500BE529D /* Strings+localisations.swift in Sources */,
 				FB21537D2630019700BE529D /* LocalisationApp.swift in Sources */,
+				FB0C5DE42636F0D400224329 /* Formatters.swift in Sources */,
+				FB0C5DE12636DCE700224329 /* TestLocalWithEnum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
